@@ -1,0 +1,12 @@
+h1{
+	position: absolute;
+	left: 250px;
+	top : 250px;
+}
+
+header{
+	background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(ab.png);
+	height: 100vh;
+	background-size: cover;
+	background-position: center;
+}

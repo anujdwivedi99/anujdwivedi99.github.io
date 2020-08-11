@@ -1,0 +1,27 @@
+h1{
+	position: absolute;
+	left: 350px;
+	top: 100px;
+	color: #fff;
+	font-size: 50px;
+}
+h2{
+	position: absolute;
+	left: 350px;
+	top: 230px;
+	color: #fff;
+	font-size: 30px;
+}
+p{
+	position: absolute;
+	left: 350px;
+	top: 300px;
+	color: #fff;
+	font-size: 20px;
+}
+header{
+	background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(c.jpg);
+	height: 100vh;
+	background-size: cover;
+	background-position: center;
+}
